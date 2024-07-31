@@ -1,2 +1,3 @@
 # express
-this repository created for express project practice 
+This repository created for express project practice 
+Watching the videos from Sheryians Cooding School 
